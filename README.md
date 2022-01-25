@@ -1,2 +1,2 @@
 # cogs202
-A repository for Foundation of Cognitive Science II (COGS 202)
+A repository for Cognitive Science Foundations II (COGS 202)
