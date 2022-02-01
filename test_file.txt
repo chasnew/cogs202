@@ -1,0 +1,11 @@
+a test file for unix command exercise
+
+My name is Chanuwas. I study the emergence of inequality and how social inequality influences social dynamics. The method that I use is computational models such as dynamical system and agent-based models.
+
+I don't know what else to write in here.
+
+I'm currently trying to apply to the complexity science summer school, and I should be finishing my research statement.
+
+Capital "A" to append at the end of the line.
+
+This is the first assignment for COGS 202. Try using "vi"
